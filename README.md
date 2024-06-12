@@ -4,6 +4,8 @@
 
 ## Классический чат-бот
 
+В основе [чат-бота](https://github.com/yandex-datasphere/yatalks-potter-bot) использовалась технология [RAG(Retrieval-Augmented Generation)](https://habr.com/ru/articles/772130/) при комбинации библиотек [LangChain](https://www.langchain.com/) и [YandexChain](https://github.com/yandex-datasphere/yandex-chain), для эмбедингов использовались YandexEmbedings, в качестве векторного хранилища был выбран [LanceDB](https://lancedb.com/), в качестве основного LLM - **YandexGPT** (хотя и были неудачные попытки построить работу на HuggingFace).
+
 
 ![faq_cosinus_similarity_matrix](https://github.com/YurDuiachenko/readme-yandex/assets/72216941/27dbf822-1f42-451e-9f94-85f79ca4c5c3)
 
@@ -17,7 +19,7 @@
 
 
 ## API Яндекс.Расписаний
-
+[API Яндекс.Расписаний](https://yandex.ru/dev/rasp/raspapi/) было использовано для получения актуальной инофрмации о поездах и маршрутах.
 
 ## Классификатор
 
@@ -59,7 +61,7 @@
 > 2. Рейс 126C отправляется в 13.40 и прибывает туда же, местное время прибытия 08.15.
 > 3. Рейс 506C отправляется из Новороссийска и прибывает на станцию Воронеж-1, местное время — 12.27.
 
-## Имплментация
+## Имплементация
 
 ## Архитектура
 ![readme-arch](https://github.com/YurDuiachenko/readme-yandex/assets/72216941/71d1680b-97ea-4613-9067-e168eb3f7cec)
