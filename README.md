@@ -196,10 +196,9 @@ flowchart LR
 
 ## Источники
 
-* [Retrieval-Augmented Generation](https://habr.com/ru/articles/772130/)
-* [Yandex API Расписаний](https://yandex.ru/dev/rasp/raspapi/)
-* [PromptEngineering4Devs](https://github.com/yandex-datasphere/PromptEngineering4Devs)
-* [Создаём вопрос-ответного чат-бота (potter-bot)](https://github.com/yandex-datasphere/yatalks-potter-bot)
-* [Yandex-chain](https://github.com/yandex-datasphere/yandex-chain)
-* [Оцениваем RAG-пайплайны](https://habr.com/ru/articles/778166/)
-* [Добавление собственных данных в LLM с помощью RAG](https://habr.com/ru/companies/wunderfund/articles/779748/)
+* Хабр-статья про [Retrieval-Augmented Generation](https://habr.com/ru/articles/772130/)
+* Документация [Yandex API Расписаний](https://yandex.ru/dev/rasp/raspapi/)
+* Мастер-класс по [Промпт-инжинирингу](https://github.com/yandex-datasphere/PromptEngineering4Devs)
+* Мастер-класс [Создаём вопрос-ответного чат-бота (potter-bot)](https://github.com/yandex-datasphere/yatalks-potter-bot)
+* Документация [Yandex-chain](https://github.com/yandex-datasphere/yandex-chain)
+* Хабр-статья [Оцениваем RAG-пайплайны](https://habr.com/ru/articles/778166/)
