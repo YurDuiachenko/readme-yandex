@@ -178,7 +178,7 @@ flowchart LR
     YandexGPT --answer--> TGbot[Telegram Bot]
     TGbot[Telegram Bot] --answer--> User
 ```
-
+![readme-arch](https://github.com/YurDuiachenko/readme-yandex/assets/72216941/71d1680b-97ea-4613-9067-e168eb3f7cec)
 ## Команда проекта
 
 * [Брежнева Алена](https://github.com/alenka192003)
